@@ -1,4 +1,4 @@
-# random-down
+# random
 Ceritanya gabut gitu
 # usage 
 ```python
